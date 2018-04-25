@@ -1,4 +1,4 @@
-// This is new version test. copyright by Chenhao Hu
+// This is new version test. copyright by Poi!
 #include <iostream>
 #include <cmath>
 #include <fstream>
